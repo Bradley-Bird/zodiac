@@ -1,9 +1,9 @@
 footer {
     display: flex;
+    position: fixed;
     bottom: 0;
     height: 20px;
-    color: crimson;
-    background-color: blue;
+    color: var(--dark-liver-horses);
+    background-color: var(--dark-sea-green);
     width: 100%;
-
 }

@@ -2,6 +2,9 @@ header {
     top: 0;
     height: 100px;
     display: flex;
-    background-color: fuchsia;
+    background-color: var(--dark-sea-green);
     justify-content: flex-end;
+    font-size: xx-large;
+    font-weight: 800;
+    color: var(--dark-liver-horses);
 }

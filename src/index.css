@@ -1,5 +1,18 @@
-body {
+* {
+  box-sizing: border-box;
+  --dark-liver-horses: hsla(2, 24%, 27%, 1);
+  --ebony: hsla(93, 5%, 36%, 1);
+  --russian-green: hsla(132, 13%, 50%, 1);
+  --dark-sea-green: hsla(141, 36%, 61%, 1);
+  --fluorescent-blue: hsla(174, 79%, 72%, 1);
+}
+
+html, body {
   margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--dark-liver-horses);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

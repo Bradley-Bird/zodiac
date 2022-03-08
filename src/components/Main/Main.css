@@ -1,6 +1,12 @@
 main {
     display: flex;
     flex-wrap: wrap;
-    align-content: flex-start;
-    height: 100vh;
+    contain: content;
+    overflow: auto;
+    height: auto;
+    align-content: space-around;
+    background-color: var(--dark-liver-horses);
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }

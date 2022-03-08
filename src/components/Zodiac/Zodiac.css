@@ -1,12 +1,15 @@
 .sign {
     height: 250px;
     width: 250px;
-    background-color: goldenrod;
+    margin: 5px;
+    background-color: var(--fluorescent-blue);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
     padding: 10px;
-    border: solid 2px blue;
+    border: solid 4px var(--russian-green);
+    border-radius: 1em;
+    box-shadow: 10px 5px 5px var(--russian-green);
 }
