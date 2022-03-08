@@ -1,7 +1,6 @@
+import Zodiac from '../Zodiac/Zodiac';
+import './Main.css';
+
 export default function Main() {
-  return (
-    <div>
-      <span>Aquarius</span>
-    </div>
-  );
+  return <Zodiac />;
 }

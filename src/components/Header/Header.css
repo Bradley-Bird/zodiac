@@ -1,0 +1,7 @@
+header {
+    top: 0;
+    height: 100px;
+    display: flex;
+    background-color: fuchsia;
+    justify-content: flex-end;
+}

@@ -1,0 +1,12 @@
+.sign {
+    height: 250px;
+    width: 250px;
+    background-color: goldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border: solid 2px blue;
+}

@@ -1,0 +1,9 @@
+footer {
+    display: flex;
+    bottom: 0;
+    height: 20px;
+    color: crimson;
+    background-color: blue;
+    width: 100%;
+
+}
