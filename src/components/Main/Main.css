@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    contain: content;
+    overflow: auto;
+    height: calc(100vh - 120px);
+    width: 100vw;
+    align-content: space-around;
+    background-color: black;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: left 70% top 30%;
+}
